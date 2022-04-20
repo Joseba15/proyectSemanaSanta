@@ -1,1 +1,1 @@
-![img](/home/estudiante/Downloads/ProyectoSemSanta.png)
+![image](ProyectoSemSanta.png)
